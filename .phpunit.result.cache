@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":330:{a:2:{s:7:"defects";a:2:{s:57:"Ardiakov\Workiru\Tests\Api\ApiManagerTest::testBuildQuery";i:4;s:58:"Ardiakov\Workiru\Tests\WorkiClientTest::testGetAccessToken";i:4;}s:5:"times";a:2:{s:57:"Ardiakov\Workiru\Tests\Api\ApiManagerTest::testBuildQuery";d:0.002;s:58:"Ardiakov\Workiru\Tests\WorkiClientTest::testGetAccessToken";d:0.006;}}}
